@@ -2,7 +2,7 @@
 
 <p align="center">Aplicação de uma agenda com utilização de banco de dados</p>
 
-
+![Gravando-2023-10-28-114734](https://github.com/llarissaribeiro/agenda/assets/118293780/33f9dd9b-44ac-4849-acd0-75b7895aef65)
 
 
 <h1>🧮 Descrição</h1>
@@ -11,11 +11,6 @@
 <br> - Excluir contato.
 <br> - Projeto PHP integrado com banco de dados MySQL.
 <br> - Criação, edição e exclusão de forms com PHP.
-
-
-<h1>💻 Deploy da Aplicação com GitHub Pages</h1>
-
-
 
 <h1>🚀 Tecnologias</h1>
 <li>HTML</li>
