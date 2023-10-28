@@ -1,0 +1,142 @@
+.navbar-brand img{
+  width: 4rem;
+  margin-left: 2rem;
+}
+
+#main-title{
+  color: #054d6e;
+  font-weight: 700;
+  text-align: center;
+  margin: 2rem 0 3rem;
+}
+
+#contacts-table{
+  max-width: 60rem;
+  margin: 0 auto;
+}
+
+.col-id{
+  font-weight: bold;
+}
+
+.actions{
+  text-align: right;
+  width: 10rem;
+}
+
+.actions i{
+  font-size: 1.2rem;
+  margin-right: .5rem;
+}
+
+.check-icon{
+  color: #1E7E34;
+}
+
+.edit-icon{
+  color: #dfb707;
+}
+
+.delete-icon{
+  color: #df0707;
+}
+
+.delete-form{
+  display: inline-block;
+}
+
+.deleteBtn{
+  background-color: transparent;
+  border: none;
+  padding: 0;
+}
+
+#empty-list-text{
+  text-align: center;
+}
+
+#msg{
+  color: #155724;
+  background-color: #D4EDDA;
+  border: 1px solid #C3E6CB;
+  border-radius: 0.5rem;
+  padding: 10px;
+  text-align: center;
+  max-width: 30rem;
+  margin: 0 auto;
+  margin-top: 2rem;
+}
+
+#back-link-container{
+  display: block;
+  width: 10rem;
+  margin: 2rem 0;
+}
+
+#back-link{
+  background-color: #07d3d3;
+  border-radius: .3rem;
+  padding: .5rem .8rem;
+  color: #02293b;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#back-link:hover{
+  background-color: #64fdfd;
+  transition: .5s;
+}
+
+/* show contact */
+
+#view-contact-container{
+  max-width: 50rem;
+}
+
+.showTitle{
+  font-weight: bold;
+  background-color: #2c2c2c;
+  color: #fff;
+  padding: .5rem 1rem;
+  border-radius: .3rem;
+}
+
+.showDescription{
+  background-color: #eeecec;
+  padding: .5rem 1rem;
+}
+
+/* create contact */
+
+#create-form, #edit-form{
+  max-width: 32rem;
+  margin: 0 auto;
+}
+
+.form-group, .form-group label{
+  margin-bottom: .5rem;
+}
+
+#creatBtn{
+  background-color: #07d3d3;
+  color: #02293b;
+  border: none;
+  font-weight: bold;
+  margin-top: .5rem;
+}
+
+#creatBtn:hover {
+  background-color: #64fdfd;
+  transition: .5s;
+}
+
+/* MOBILE */
+@media(max-width: 480px){
+  #home-link{
+  display: none;
+  }
+
+  .nav-link{
+    margin-right: 2rem;
+  }
+}
